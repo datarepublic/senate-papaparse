@@ -1,0 +1,20 @@
+{
+  "name": "y",
+  "homepage": "https://github.com/lschjeide/smooch-leif",
+  "authors": [
+    "Leif Schjeide <lschjeide@gmail.com>"
+  ],
+  "description": "a bowerable version of smooch",
+  "main": "smooch.min.js",
+  "keywords": [
+    "smooch"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
